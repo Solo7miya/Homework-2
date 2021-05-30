@@ -1,0 +1,61 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  background-color: rgb(26, 25, 25);
+}
+
+.logo {
+  color: white;
+  background-color: rgb(26, 25, 25);
+}
+.lg {
+  color: white;
+  background-color: rgb(26, 25, 25);
+}
+.one {
+  color: white;
+  background-color: rgb(26, 25, 25);
+}
+.two {
+  color: white;
+  background-color: rgb(26, 25, 25);
+}
+.three {
+  color: white;
+  background-color: rgb(26, 25, 25);
+}
+.four {
+  color: white;
+  background-color: rgb(26, 25, 25);
+}
+.five {
+  color: white;
+  background-color: rgb(26, 25, 25);
+}
+.top-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px 90px;
+}
+.nav-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px 40px;
+}
+.text {
+  color: #d4c17f;
+}
+.div {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+.end-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0px 40px;
+}
